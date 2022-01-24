@@ -7,4 +7,4 @@ O algoritmo é desenvolvido em Python com a utilização da IDE do Jupyter Noteb
 A documentação do algoritmo SVM encontra-se disponível em:
 https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.htm
 
-O banco de dados CSV também encontra-se disponível no mesmo repositório do GitHub que contra-se o algoritmo.
+O banco de dados PKL (formato Pickle) também encontra-se disponível no mesmo repositório do GitHub que contra-se o algoritmo.
